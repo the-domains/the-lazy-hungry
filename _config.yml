@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2831541
 color:
   saturation: 0.8731282
-  lightness: 0.5368465
   brandStrength: 0.6556166
+  rhythmicContrast: 0.3994734
   brandColors:
     - '#160E15'
     - '#FFFFF4'
     - '#7F5C41'
     - '#DFCFB4'
     - '#01424A'
-  rhythmicContrast: 0.3994734
-typography_spectrum: 0.2831541
+  lightness: 0.5368465
+layout_spectrum: 0
 name: 'The Lazy & Hungry'
