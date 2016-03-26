@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Lazy & Hungry]]></title>
         <description><![CDATA[The Lazy & Hungry]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-lazy-hungry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 05:01:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 05:06:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-lazy-hungry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Don't try and take my food!]]></title>
+            <description><![CDATA[<article><h1>Don't try and take my food!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53623cde-eb0b-440e-966c-ab44a00970ba.png"></article>]]></description>
+            <link>https://thegrid.ai/the-lazy-hungry/dont-try-and-take-my-food/index.html</link>
+            <guid isPermaLink="false">d8a28ce5-8daf-4e86-8c49-674470222e74</guid>
+            <pubDate>Sat, 26 Mar 2016 05:06:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hi, I'm hungry]]></title>
             <description><![CDATA[<article><h1>Hi, I'm hungry</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d37b1252-55f1-4002-b2f3-e6ec58dc7b90.png"></article>]]></description>
-            <link>undefinedhi-im-hungry/index.html</link>
+            <link>https://thegrid.ai/the-lazy-hungry/hi-im-hungry/index.html</link>
             <guid isPermaLink="false">7c4b07c4-f90c-4900-bd52-0d21de80999a</guid>
             <pubDate>Sat, 26 Mar 2016 05:01:40 GMT</pubDate>
         </item>
