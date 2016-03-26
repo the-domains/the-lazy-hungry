@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8731282
+  lightness: 0.5368465
+  brandStrength: 0.6556166
+  brandColors:
+    - '#160E15'
+    - '#FFFFF4'
+    - '#7F5C41'
+    - '#DFCFB4'
+    - '#01424A'
+  rhythmicContrast: 0.3994734
+typography_spectrum: 0.2831541
+name: 'The Lazy & Hungry'
