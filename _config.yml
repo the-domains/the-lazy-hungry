@@ -1,3 +1,7 @@
+name: 'The Lazy & Hungry'
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.2831541
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2831541
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8731282
-  brandStrength: 0.6556166
-  rhythmicContrast: 0.3994734
   brandColors:
     - '#160E15'
     - '#FFFFF4'
     - '#7F5C41'
     - '#DFCFB4'
     - '#01424A'
+  brandStrength: 0.6556166
   lightness: 0.5368465
-layout_spectrum: 0
-name: 'The Lazy & Hungry'
+  saturation: 0.8731282
+  rhythmicContrast: 0.3994734
+purpose: []
